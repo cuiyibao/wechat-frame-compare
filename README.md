@@ -1,11 +1,11 @@
 # 小程序框架对比
 
-## wepy (腾讯)
+## chameleon (DD)
 
-## mpvue (美团)
+## mpvue (MT)
 
-## Taro (京东)
+## taro (JD)
 
 ## uni-app (Dcloud)
 
-## chameleon (滴滴)
+## wepy (TX)
