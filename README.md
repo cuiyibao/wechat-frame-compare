@@ -1,9 +1,9 @@
 <!--
  * @Description: 文件描述
- * @Author: qianxuemin001
+ * @Author: cuiyibao001
  * @Date: 2019-05-27 12:08:21
  * @LastEditTime: 2019-05-27 18:34:28
- * @LastEditors: qianxuemin001
+ * @LastEditors: cuiyibao001
  -->
 # 小程序框架对比
 
@@ -17,7 +17,7 @@
 
 ## taro (JD)
 
-* react系写法，维护力度强，ui组件文档不完善，ts语法，学习成本较高
+* react系写法，维护力度强，ui组件文档不完善
 
 ## uni-app (Dcloud)
 
@@ -26,3 +26,8 @@
 ## wepy (TX)
 
 * 不兼容H5
+
+
+## start数对比(2019-05-27)
+
+* taro(18773) > wepy(17806) > mpvue(17472) > uni-app(7537) > chameleon(5138)
