@@ -1,3 +1,10 @@
+<!--
+ * @Description: 文件描述
+ * @Author: cuiyibao001
+ * @Date: 2019-05-28 10:24:11
+ * @LastEditTime: 2019-05-28 13:07:46
+ * @LastEditors: cuiyibao001
+ -->
 # Taro
 
 ## 基本介绍
@@ -15,3 +22,7 @@
 ## DSL
 
 * 类react语法，采用.js、.ts
+
+## 设计思想
+
+![Image text](./img/taro/frame-design.jpg)
