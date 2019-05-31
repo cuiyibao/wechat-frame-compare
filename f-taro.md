@@ -2,7 +2,7 @@
  * @Description: 文件描述
  * @Author: cuiyibao001
  * @Date: 2019-05-28 10:24:11
- * @LastEditTime: 2019-05-28 13:07:46
+ * @LastEditTime: 2019-05-30 19:10:54
  * @LastEditors: cuiyibao001
  -->
 # Taro
@@ -26,3 +26,10 @@
 ## 设计思想
 
 ![Image text](./img/taro/frame-design.jpg)
+
+## taro产出H5页面兼容现有的SSR框架
+
+### 兼容方法：
+
+* h5打包产出对应单文件的js和css
+* h5打包嵌入组件
